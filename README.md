@@ -18,4 +18,4 @@ A continuación exponemos el enunciado genérico que sirve como base:
 * Utilizando `cherry-pick`, integra el la rama `pagina_de_precios`
 * Integra todas las ramas utilizando `git rebase`
 
-Todas las imágenes Copyright: <a href='http://www.stockunlimited.com'>Images by StockUnlimited</a>
+Todas las imágenes Copyright: [Images by StockUnlimited](https://www.stockunlimited.com'>Images by StockUnlimited)
