@@ -13,7 +13,9 @@ Para usar este repositorio:
 
 A continuación exponemos el enunciado genérico que sirve como base:
 
-* Utilizando cherry pick, integra en la rama `master` el código que se quedó atras en la rama `precios_portada`
-
+* Utilizando cherry pick, integra en la rama `master` el código que se quedó atras en la rama `pagina de soporte`
+* Utilizando `cherry-pick`, integra el commit cuyo mensaje es "Enlace en logo de la portada"
+* Utilizando `cherry-pick`, integra el la rama `pagina_de_precios`
+* Integra todas las ramas utilizando `git rebase`
 
 Todas las imágenes Copyright: <a href='http://www.stockunlimited.com'>Images by StockUnlimited</a>
